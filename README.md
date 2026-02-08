@@ -9,7 +9,7 @@ Online learning plays a major role at DeVry University. Students from different 
 A central part of the student experience is the DeVry student portal, which acts as a digital hub for academic and administrative activities. Through the portal, students can check class schedules, view grades, submit assignments, communicate with instructors, and manage financial information. Having a centralized system helps students stay organized and focused throughout their academic journey.
 
 For students who want detailed guidance on accessing and using the portal, resources like the DeVry University Student Portal guide available at
-👉 https://devryuniversitystudentportal.us/
+
 [DeVry University Student Portal](https://devryuniversitystudentportal.us/)
 can be extremely helpful. This platform offers clear information related to login steps, portal features, and common troubleshooting tips, making it easier for students to navigate their online academic environment efficiently.
 
